@@ -1,0 +1,64 @@
+
+F
+java:S1659v"$Declare "height" on a separate line.(“·ñ˜şÿÿÿÿ8ı§‰ú.
+v
+java:S1989‹"SHandle the following exception that could be thrown by "sendRedirect": IOException.(¢«¨ïúÿÿÿÿ8ı§‰ú.
+[
+java:S1128"9Remove this unused import 'java.awt.image.BufferedImage'.(×íĞ‡şÿÿÿÿ8şÿÅø.
+
+java:S1989˜"aHandle the following exceptions that could be thrown by "getPart": IOException, ServletException.(ï¬íÚ8†š½û.
+i
+java:S1989u"LHandle the following exception that could be thrown by "write": IOException.(³îÆÔ8ı§‰ú.
+m	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø•Ñ 8öâåİŠ.
+C	java:S131k""Add a default case to this switch.(ŞşÑ©øÿÿÿÿ8ı§‰ú.
+x
+java:S1989"ZHandle the following exception that could be thrown by "parseLong": NumberFormatException.(µæø°8ßÑßû.
+j
+java:S1989 "LHandle the following exception that could be thrown by "write": IOException.(ø€¯ü8©¶Âû.
+w
+java:S1989I"ZHandle the following exception that could be thrown by "parseLong": NumberFormatException.(ø•Ñ 8ŸŸóİŠ.
+h
+java:S1192N"FDefine a constant instead of duplicating this literal "photo" 4 times.(÷€î‰şÿÿÿÿ8Åªú.
+z
+java:S2226,"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(À‚–™ùÿÿÿÿ8­ŠÿğŒ.
+C	java:S1312""Add a default case to this switch.(ŞşÑ©øÿÿÿÿ8ŸŸóİŠ.
+d
+java:S3027º"FPut single-quotes around '=' to use the faster "indexOf(char)" method.(ñô¬È8†š½û.
+u
+java:S1989X"SHandle the following exception that could be thrown by "sendRedirect": IOException.(¢«¨ïúÿÿÿÿ8ô»ãø.
+ƒ
+java:S1989b"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ÄÑƒÎøÿÿÿÿ8ß˜‹ú.
+l
+java:S1989"OHandle the following exception that could be thrown by "getWidth": IOException.(ñ¬™¬8ı§‰ú.
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¶…è8†š½û.
+~
+java:S1989A"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(õ´´ş8ŸŸóİŠ.
+c
+java:S1192>"FDefine a constant instead of duplicating this literal "album" 6 times.(ï¸Ú¡8öâåİŠ.
+w
+java:S1989T"ZHandle the following exception that could be thrown by "parseLong": NumberFormatException.(Ÿû¸˜8¯­Õø.
+„
+java:S1989©"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ÄÑƒÎøÿÿÿÿ8†š½û.
+
+java:S1989‡"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(õ´´ş8ı§‰ú.
+m	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®™¡8ı§‰ú.
+s
+java:S1989€"PHandle the following exception that could be thrown by "getHeight": IOException.(Î®òàùÿÿÿÿ8ı§‰ú.
+r
+java:S1192X"PDefine a constant instead of duplicating this literal "/user/mes-album" 3 times.(¢«¨ïúÿÿÿÿ8ÀÄ´ú.
+w
+java:S1989\"ZHandle the following exception that could be thrown by "parseLong": NumberFormatException.(µæø°8„Ğˆú.
+H
+java:S1075w"&Remove this hard-coded path-delimiter.(…¤Õêıÿÿÿÿ8ı§‰ú.
+m
+java:S1301k"KReplace this "switch" statement by "if" statements to increase readability.(ŞşÑ©øÿÿÿÿ8ı§‰ú.
+ƒ
+java:S1989p"aHandle the following exceptions that could be thrown by "getPart": IOException, ServletException.(Şƒá¯øÿÿÿÿ8–ø‡ú.
+v
+java:S1989­"SHandle the following exception that could be thrown by "sendRedirect": IOException.(¢«¨ïúÿÿÿÿ8†š½û.
+~
+java:S1989P"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(„›±8ŸŸóİŠ.
+
+java:S1989x"]Handle the following exception that could be thrown by "createImageInputStream": IOException.( ÷îíşÿÿÿÿ8ı§‰ú.
+w
+java:S1989r"ZHandle the following exception that could be thrown by "parseLong": NumberFormatException.(°Ô‹ú8ı§‰ú.

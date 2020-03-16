@@ -1,0 +1,40 @@
+
+r	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñª¨§şÿÿÿÿ8³·ü.
+u
+java:S1989j"SHandle the following exception that could be thrown by "sendRedirect": IOException.(¢«¨ïúÿÿÿÿ8»¸„ÿ.
+v
+java:S1989‘"SHandle the following exception that could be thrown by "sendRedirect": IOException.(¢«¨ïúÿÿÿÿ8…çíÈ.
+C	java:S131v""Add a default case to this switch.(ŞşÑ©øÿÿÿÿ8†‡ıöŒ.
+V	java:S106‡"9Replace this use of System.out or System.err by a logger.(üéöÎ8†‡ıöŒ.
+~
+java:S1989;"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(õ´´ş8ôµóöŒ.
+l
+java:S1192E"OUse already-defined constant 'ATT_ALBUM' instead of duplicating its value here.(ï¸Ú¡8ôµóöŒ.
+w
+java:S1989c"ZHandle the following exception that could be thrown by "parseLong": NumberFormatException.(û°Ê8“«ü.
+C	java:S1315""Add a default case to this switch.(ŞşÑ©øÿÿÿÿ8ôµóöŒ.
+n
+java:S11928"LDefine a constant instead of duplicating this literal "utilisateur" 3 times.(Û şÖıÿÿÿÿ8°‚ÀÇ.
+w
+java:S1989M"ZHandle the following exception that could be thrown by "parseLong": NumberFormatException.(…„Áë8ôµóöŒ.
+ƒ
+java:S1989G"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(å÷½Ïøÿÿÿÿ8ôµóöŒ.
+|
+java:S1989b"ZHandle the following exception that could be thrown by "parseLong": NumberFormatException.(Ñª¨§şÿÿÿÿ8³·ü.
+t
+java:S1989‚"VHandle the following exception that could be thrown by "createDirectory": IOException.(Ô 8†‡ıöŒ.
+m	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û°Ê8“«ü.
+~
+java:S1989T"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(¼õòâ8ôµóöŒ.
+b
+java:S2583Š"DChange this condition so that it does not always evaluate to "false"(Ú„´¸8¹ìÈ.
+
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(õ´´ş8†‡ıöŒ.
+ƒ
+java:S1989_"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(å÷½Ïøÿÿÿÿ8çë©÷Œ.
+m
+java:S1301v"KReplace this "switch" statement by "if" statements to increase readability.(ŞşÑ©øÿÿÿÿ8†‡ıöŒ.
+m	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…„Áë8ôµóöŒ.
+V	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(´ğë§8†‡ıöŒ.
+r
+java:S1192>"PDefine a constant instead of duplicating this literal "/user/mes-album" 3 times.(á­ƒùÿÿÿÿ8´”ã‚.

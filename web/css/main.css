@@ -1,0 +1,474 @@
+.body{
+    font-family: 'Gothic A1', sans-serif;
+    font-size:16px;
+}
+.requis
+{
+    color: red;
+}
+.container
+{
+    margin-left: 100px !important;
+}
+p{
+    color:#6c6c6f;
+    font-size:1em;
+}
+#profil
+{
+    font-weight: bold;
+    color: #fed136;
+
+}
+#btn-connect
+{
+    margin-right: 50px;
+    border: 1px solid #fed136;
+    color: #fed136;
+}
+h1,h2,h3,h4,h5,h6{color:#323233;text-transform:uppercase;}
+.navbar-brand  span{
+    color: #fed136;
+    font-size:25px;font-weight:700;letter-spacing:0.1em;
+    font-family: 'Kaushan Script','Helvetica Neue',Helvetica,Arial,cursive;
+}
+.navbar-brand {
+    color: #fff;
+    font-size:25px;
+    font-family: 'Kaushan Script','Helvetica Neue',Helvetica,Arial,cursive;
+    font-weight:700;
+    letter-spacing:0.1em;
+}
+
+.navbar-nav .nav-item .nav-link{
+    padding: 1.1em 1em!important;
+    font-size: 120%;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: #fff;
+    font-family: 'Gothic A1', sans-serif;
+}
+.navbar-nav .nav-item .nav-link:hover{color:#fed136;}
+.navbar-expand-md .navbar-nav .dropdown-menu{
+    border-top:3px solid #fed136;
+}
+.dropdown-item:hover{background-color:#fed136;color:#fff;}
+nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
+    -moz-transition: padding-top .3s,padding-bottom .3s;
+    transition: padding-top .3s,padding-bottom .3s;
+    border: none;
+}
+
+.shrink {
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: #212529;
+}
+#wrapper
+{
+    width: 100%;
+    margin: 0 0 50px 0;
+    position: relative;
+}
+#wrapper img
+{
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+}
+
+.contenu
+{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-transform: lowercase;
+    font-size: 30px;
+    color: white;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.presentation{
+    margin-left: 25%;
+    border: 2px solid #fed136;
+    border-radius: 5px;
+    width: 50%;
+    text-align: center;
+}
+
+.presentation h3, .presentation h5
+{
+    text-transform: lowercase;
+}
+.titre_photo
+{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-transform: lowercase;
+    color: white;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.contenu a
+{
+    font-size: 15px;
+    display: block;
+    font-weight: bold;
+    background-color: #fed136;
+    text-align: center;
+    padding: 5px;
+    cursor: pointer;
+    text-transform: lowercase;
+}
+.overlay
+{
+    opacity: 0;
+}
+#wrapper:hover img
+{
+    opacity: .5;
+}
+
+.tagsinput,.tagsinput *{box-sizing:border-box}
+.tagsinput{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;background:#fff;font-family:sans-serif;font-size:14px;line-height:20px;color:#556270;padding:5px 5px 0;border:1px solid #e6e6e6;border-radius:2px}
+.tagsinput.focus{border-color:#ccc}
+.tagsinput .tag{position:relative;background:#556270;display:block;max-width:100%;word-wrap:break-word;color:#fff;padding:5px 30px 5px 5px;border-radius:2px;margin:0 5px 5px 0}
+.tagsinput .tag .tag-remove{position:absolute;background:0 0;display:block;width:30px;height:30px;top:0;right:0;cursor:pointer;text-decoration:none;text-align:center;color:#ff6b6b;line-height:30px;padding:0;border:0}
+.tagsinput .tag .tag-remove:after,.tagsinput .tag .tag-remove:before{background:#ff6b6b;position:absolute;display:block;width:10px;height:2px;top:14px;left:10px;content:''}
+.tagsinput .tag .tag-remove:before{-webkit-transform:rotateZ(45deg);transform:rotateZ(45deg)}
+.tagsinput .tag .tag-remove:after{-webkit-transform:rotateZ(-45deg);transform:rotateZ(-45deg)}
+.tagsinput div{-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1}
+.tagsinput div input{background:0 0;display:block;width:100%;font-size:14px;line-height:20px;padding:5px;border:0;margin:0 5px 5px 0}
+.tagsinput div input.error{color:#ff6b6b}
+.tagsinput div input::-ms-clear{display:none}
+.tagsinput div input::-webkit-input-placeholder{color:#ccc;opacity:1}
+.tagsinput div input:-moz-placeholder{color:#ccc;opacity:1}
+.tagsinput div input::-moz-placeholder{color:#ccc;opacity:1}
+.tagsinput div input:-ms-input-placeholder{color:#ccc;opacity:1}
+
+
+.im {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.im:hover {opacity: 0.7;}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (Image) */
+.modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+}
+
+/* Caption of Modal Image (Image Text) - Same Width as the Image */
+#caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #fff;
+    padding: 10px 0;
+    height: 150px;
+}
+#head {
+    margin: auto;
+    display: block;
+    width: 100%;
+    max-width: 700px;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    color: #ff6b6b;
+    height: 50px;
+}
+
+/* Add Animation - Zoom in the Modal */
+.modal-content, #caption, #head {
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@keyframes zoom {
+    from {transform:scale(0)}
+    to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+    .modal-content {
+        width: 100%;
+    }
+}
+
+#wrapper:hover .overlay
+{
+    opacity: 1;
+
+}
+.container-fluid
+{
+    margin-top: 150px;
+}
+.banner{
+    text-align: center;
+    color: #fff;
+
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.banner-text{
+    padding:200px 0 150px 0;
+}
+.banner-heading{
+    font-family: 'Lobster', cursive;
+    font-size: 75px;
+    font-weight: 700;
+    line-height: 100px;
+    margin-bottom: 30px;
+    color:#fff;
+}
+.banner-sub-heading{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 30px;
+    margin-bottom: 50px;
+    color:#fff;
+}
+
+.btn-banner{
+    padding:5px 20px;
+    border-radius:10px;
+    font-weight:700;
+    line-height:1.5;
+    text-align:center;
+    color:#fff;
+    text-transform:uppercase;
+}
+.text-intro{
+    width:90%;
+    margin:auto;
+    text-align:center;
+    padding-top:30px;
+}
+
+
+/* mobile view */
+@media (max-width:500px)
+{
+    .navbar-nav{
+        background-color:#000;
+        border-top:3px solid #fed136;
+        color:#fff;
+        z-index:1;
+        margin-top:5px;
+    }
+    .navbar-nav .nav-item .nav-link{
+        padding: 0.7em 1em!important;
+        font-size: 100%;
+        font-weight: 500;
+    }
+    .banner-text{
+        padding:150px 0 150px 0;
+    }
+    .banner-heading{
+        font-size: 30px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+    .banner-sub-heading{
+        font-size: 10px;
+        font-weight: 200;
+        line-height: 10px;
+        margin-bottom: 40px;
+    }
+
+}
+
+@media (max-width:768px){
+    .banner-text{
+        padding:150px 0 150px 0;
+    }
+    .banner-sub-heading{
+        font-size: 23px;
+        font-weight: 200;
+        line-height: 23px;
+        margin-bottom: 40px;
+    }
+}
+
+
+.card-signin {
+    border: 0;
+    border-radius: 1rem;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+
+.card-signin .card-title {
+    margin-bottom: 2rem;
+    font-weight: 300;
+    font-size: 1.5rem;
+}
+
+.card-signin .card-body {
+    padding: 2rem;
+}
+
+.form-signin {
+    width: 100%;
+}
+
+.form-signin .btn {
+    font-size: 80%;
+    border-radius: 5rem;
+    letter-spacing: .1rem;
+    font-weight: bold;
+    padding: 1rem;
+    transition: all 0.2s;
+}
+
+.form-label-group {
+    position: relative;
+    margin-bottom: 1rem;
+}
+
+.form-label-group input {
+    height: auto;
+    border-radius: 2rem;
+}
+
+.form-label-group>input,
+.form-label-group>label {
+    padding: var(--input-padding-y) var(--input-padding-x);
+}
+
+.form-label-group>label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    width: 100%;
+    margin-bottom: 0;
+    /* Override default `<label>` margin */
+    line-height: 1.5;
+    color: #495057;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    transition: all .1s ease-in-out;
+}
+
+.form-label-group input::-webkit-input-placeholder {
+    color: transparent;
+}
+
+.form-label-group input:-ms-input-placeholder {
+    color: transparent;
+}
+
+.form-label-group input::-ms-input-placeholder {
+    color: transparent;
+}
+
+.form-label-group input::-moz-placeholder {
+    color: transparent;
+}
+
+.form-label-group input::placeholder {
+    color: transparent;
+}
+
+.form-label-group input:not(:placeholder-shown) {
+    padding-top: calc(var(--input-padding-y) + var(--input-padding-y) * (2 / 3));
+    padding-bottom: calc(var(--input-padding-y) / 3);
+}
+
+.form-label-group input:not(:placeholder-shown)~label {
+    padding-top: calc(var(--input-padding-y) / 3);
+    padding-bottom: calc(var(--input-padding-y) / 3);
+    font-size: 12px;
+    color: #777;
+}
+
+.btn-google {
+    color: white;
+    background-color: #ea4335;
+}
+
+.btn-facebook {
+    color: white;
+    background-color: #3b5998;
+}
+
+/* Fallback for Edge
+-------------------------------------------------- */
+
+@supports (-ms-ime-align: auto) {
+    .form-label-group>label {
+        display: none;
+    }
+    .form-label-group input::-ms-input-placeholder {
+        color: #777;
+    }
+}
+
+/* Fallback for IE
+-------------------------------------------------- */
+
+@media all and (-ms-high-contrast: none),
+(-ms-high-contrast: active) {
+    .form-label-group>label {
+        display: none;
+    }
+    .form-label-group input:-ms-input-placeholder {
+        color: #777;
+    }
+}

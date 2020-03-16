@@ -1,0 +1,12 @@
+
+Sjavascript:S1854"2Remove this useless assignment to variable "body".(Í½™ÿÿÿÿÿ
+Vjavascript:S1481"5Remove the declaration of the unused 'body' variable.(Í½™ÿÿÿÿÿ
+]javascript:S1854"<Remove this useless assignment to variable "contentWrapper".(ò©ÖÎøÿÿÿÿ
+`javascript:S1481"?Remove the declaration of the unused 'contentWrapper' variable.(ò©ÖÎøÿÿÿÿ
+Zjavascript:S1481"9Remove the declaration of the unused 'scroller' variable.(ÅúüÏûÿÿÿÿ
+Wjavascript:S1854"6Remove this useless assignment to variable "scroller".(ÅúüÏûÿÿÿÿ
+Sjavascript:S1481"7Remove the declaration of the unused 'footer' variable.(‹Ú§û
+Pjavascript:S1854"4Remove this useless assignment to variable "footer".(‹Ú§û
+Yjavascript:S1481"8Remove the declaration of the unused 'sidebar' variable.(¢Âôİşÿÿÿÿ
+Vjavascript:S1854"5Remove this useless assignment to variable "sidebar".(¢Âôİşÿÿÿÿ
+\javascript:S1516"=Multiline support is limited to browsers supporting ES5 only.(Å³òßûÿÿÿÿ

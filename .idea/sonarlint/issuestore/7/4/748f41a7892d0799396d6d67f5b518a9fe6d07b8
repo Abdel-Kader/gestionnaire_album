@@ -1,0 +1,7 @@
+
+p	java:S100‘"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹—¿Öøÿÿÿÿ8âú‡ÉŒ.
+[
+java:S1117€"8Rename "user" which hides the field declared at line 35.(ÄÍã–ÿÿÿÿÿ8âú‡ÉŒ.
+l
+java:S1192W"JDefine a constant instead of duplicating this literal "type_user" 3 times.(Œô–ışÿÿÿÿ8âú‡ÉŒ.
+p	java:S100š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´İšÒÿÿÿÿÿ8âú‡ÉŒ.

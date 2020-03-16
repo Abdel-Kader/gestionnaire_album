@@ -1,0 +1,5 @@
+
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÛèÏşÿÿÿÿ8¼Öı‰.
+w	java:S116"[Rename this field "type_utilisateur" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Í÷ä8¼Öı‰.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û®Òùÿÿÿÿ8¼Öı‰.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÛèÏşÿÿÿÿ8¼Öı‰.

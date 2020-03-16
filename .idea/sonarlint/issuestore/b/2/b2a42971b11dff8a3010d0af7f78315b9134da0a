@@ -1,0 +1,23 @@
+
+v	java:S116&"ZRename this field "proprietaire_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ê›¯8ÛÜ‹©Š.
+E
+java:S1148W"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¿È·‹.
+m	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯³áè8¿È·‹.
+Z
+java:S1117D"8Rename "user" which hides the field declared at line 40.(©¦úÿÿÿÿ8½Ì€â‹.
+m	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯³áè8¿È·‹.
+n	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È…ˆ8¿È·‹.
+n	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŒü8†û‡ÉŒ.
+y
+java:S1130 "[Remove the declaration of thrown exception 'dao.ExceptionDao' which is a runtime exception.(È…ˆ8²ÔÓ¸‹.
+v	java:S116'"ZRename this field "id_proprietaire" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øö¯8¿È·‹.
+M
+java:S1068"+Remove this unused "userDao" private field.(­¶úÿÿÿÿ8è®ç¸‹.
+r	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş˜ÔŞøÿÿÿÿ8½Ì€â‹.
+o	java:S100c"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùŸù¢øÿÿÿÿ8†û‡ÉŒ.
+m	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ş‡œ8¿È·‹.
+n	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÀ€Ò8¿È·‹.
+m	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³êà8¿È·‹.
+m	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôáşÇ8Òé«¸‹.
+y
+java:S1130•"[Remove the declaration of thrown exception 'dao.ExceptionDao' which is a runtime exception.(ÊŒü8²ÔÓ¸‹.

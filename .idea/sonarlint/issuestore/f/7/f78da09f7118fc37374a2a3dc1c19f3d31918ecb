@@ -1,0 +1,67 @@
+
+}
+java:S1989°"ZHandle the following exception that could be thrown by "parseLong": NumberFormatException.(ÑÄÊ˜úÿÿÿÿ8Ëú‡ÉŒ.
+r	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¾Ì¼ıÿÿÿÿ8Ëú‡ÉŒ.
+s	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÄÊ˜úÿÿÿÿ8Ëú‡ÉŒ.
+n	java:S117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö»¦î8Ëú‡ÉŒ.
+~
+java:S1989…"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(øÄË$8Ëú‡ÉŒ.
+„
+java:S1989•"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(–¤åıÿÿÿÿ8Ëú‡ÉŒ.
+x
+java:S1989¸"ZHandle the following exception that could be thrown by "parseLong": NumberFormatException.(ö»¦î8Ëú‡ÉŒ.
+m
+java:S1192²"OUse already-defined constant 'ATT_ALBUM' instead of duplicating its value here.(ï¸Ú¡8Ëú‡ÉŒ.
+X
+java:S1128";Remove this unused import 'javax.servlet.http.HttpSession'.(í¨ô8œôÆ€.
+v
+java:S1989º"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ìÄÜ§ùÿÿÿÿ8”õ¢ÿ.
+~
+java:S1989€"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(øÄË$8Ëú‡ÉŒ.
+m	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é˜­ç8Ëú‡ÉŒ.
+}
+java:S1989r"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(øÄË$8Ëú‡ÉŒ.
+m	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü ¾^8Ëú‡ÉŒ.
+x
+java:S1989š"ZHandle the following exception that could be thrown by "parseLong": NumberFormatException.(Ÿû¸˜8Ëú‡ÉŒ.
+„
+java:S1989«"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(û¾øÿÿÿÿ8Ëú‡ÉŒ.
+
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(íµé›8Ëú‡ÉŒ.
+w
+java:S1989="ZHandle the following exception that could be thrown by "parseLong": NumberFormatException.(Ÿû¸˜8Ëú‡ÉŒ.
+}
+java:S1989y"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(øÄË$8Ëú‡ÉŒ.
+P
+java:S1128	".Remove this unused import 'metiers.AdminForm'.(íú¸©ıÿÿÿÿ8Ëú‡ÉŒ.
+]	java:S125\"<This block of commented-out lines of code should be removed.(’“¬²üÿÿÿÿ8Ëú‡ÉŒ.
+}
+java:S1989J"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(øÄË$8Ëú‡ÉŒ.
+}
+java:S1989¢"ZHandle the following exception that could be thrown by "parseLong": NumberFormatException.(ß÷°ûùÿÿÿÿ8Ëú‡ÉŒ.
+p
+java:S1989["SHandle the following exception that could be thrown by "sendRedirect": IOException.(Ê†ò8Ëú‡ÉŒ.
+q
+java:S1989¤"SHandle the following exception that could be thrown by "sendRedirect": IOException.(áæÒ¿8Ëú‡ÉŒ.
+C	java:S131/""Add a default case to this switch.(ŞşÑ©øÿÿÿÿ8íäŞù‹.
+„
+java:S1989³"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(‘¥Óíşÿÿÿÿ8Ëú‡ÉŒ.
+o
+java:S1192q"MDefine a constant instead of duplicating this literal "utilisateurs" 4 times.(‚¹¢üùÿÿÿÿ8Ëú‡ÉŒ.
+C	java:S131i""Add a default case to this switch.(ŞşÑ©øÿÿÿÿ8Ëú‡ÉŒ.
+r	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î“ªøÿÿÿÿ8Ëú‡ÉŒ.
+|
+java:S1989>"ZHandle the following exception that could be thrown by "parseLong": NumberFormatException.(î“ªøÿÿÿÿ8Ëú‡ÉŒ.
+w
+java:S1989O"ZHandle the following exception that could be thrown by "parseLong": NumberFormatException.(é˜­ç8Ëú‡ÉŒ.
+n	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øœ’¯8Ëú‡ÉŒ.
+l
+java:S1192œ"NUse already-defined constant 'ATT_USER' instead of duplicating its value here.(¤µõ®8Ëú‡ÉŒ.
+s	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß÷°ûùÿÿÿÿ8Ëú‡ÉŒ.
+}
+java:S19896"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(øÄË$8ËÛÚù‹.
+„
+java:S1989‘"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Õ†Ñçûÿÿÿÿ8¹×šü‹.
+|
+java:S1989P"ZHandle the following exception that could be thrown by "parseLong": NumberFormatException.(•¾Ì¼ıÿÿÿÿ8Ëú‡ÉŒ.
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š‰Ííûÿÿÿÿ8Ëú‡ÉŒ.

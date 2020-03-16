@@ -1,0 +1,19 @@
+
+S
+java:S1068"1Remove this unused "CHAMP_HAUTEUR" private field.(‰êÃüùÿÿÿÿ8’ô•ÌŠ.
+r	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûº±Şúÿÿÿÿ8·£ŞËŠ.
+E
+java:S1148T"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8’ô•ÌŠ.
+~
+java:S1130Ÿ"[Remove the declaration of thrown exception 'dao.ExceptionDao' which is a runtime exception.(¯Ì³˜øÿÿÿÿ8ã¸ÚËŠ.
+S
+java:S1068"1Remove this unused "CHAMP_LARGEUR" private field.(ûàÁ”şÿÿÿÿ8’ô•ÌŠ.
+}
+java:S1130p"[Remove the declaration of thrown exception 'dao.ExceptionDao' which is a runtime exception.(›Ò™„ÿÿÿÿÿ8·¢æ·Š.
+m	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıã¡™8àÕèË.
+F
+java:S1148’"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Œìú.
+o	java:S116'"SRename this field "album_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó—˜ê8”Ô×±Š.
+M
+java:S1068"0Remove this unused "CHAMP_SOURCE" private field.(å¬Û’8í×ø.
+m	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š•µŞ8’ô•ÌŠ.
